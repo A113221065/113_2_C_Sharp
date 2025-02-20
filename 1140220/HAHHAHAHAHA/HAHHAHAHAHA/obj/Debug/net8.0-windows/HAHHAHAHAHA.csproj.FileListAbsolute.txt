@@ -1,0 +1,17 @@
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\bin\Debug\net8.0-windows\HAHHAHAHAHA.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\bin\Debug\net8.0-windows\HAHHAHAHAHA.deps.json
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\bin\Debug\net8.0-windows\HAHHAHAHAHA.runtimeconfig.json
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\bin\Debug\net8.0-windows\HAHHAHAHAHA.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\bin\Debug\net8.0-windows\HAHHAHAHAHA.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.AssemblyInfoInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.AssemblyInfo.cs
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.sourcelink.json
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\refint\HAHHAHAHAHA.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\HAHHAHAHAHA.genruntimeconfig.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\1140220\HAHHAHAHAHA\HAHHAHAHAHA\obj\Debug\net8.0-windows\ref\HAHHAHAHAHA.dll
